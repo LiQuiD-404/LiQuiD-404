@@ -74,9 +74,10 @@
 - [Spark AR Community Hackathon - Meta](https://drive.google.com/file/d/1pwYvJvu8zlq0X3ItCBHafUisnErNY3fd/view?usp=sharing) 
 
  <hr>
+ 
  <p align="center">
  <img src="https://cultofthepartyparrot.com/guests/hd/vibepartycat.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats&nbsp&nbsp&nbsp     </b></i><img src="https://cultofthepartyparrot.com/guests/hd/vibepartycat.gif" width="30px" alt="GitHub-Status"/></p>
- <br><br>
+ 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiQuiD-404&langs_count=10&theme=tokyonight&layout=compact" alt="shubham" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=LiQuiD-404&show_icons=true&theme=synthwave" alt="shubham-stats" width="410" /></p>
