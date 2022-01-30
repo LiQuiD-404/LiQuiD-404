@@ -89,6 +89,7 @@
   <hr>
 
 **Watch my Contribution Graph get eaten by this snake 	:snake:**
+
 ![snake gif](https://github.com/LiQuiD-404/LiQuiD-404/blob/output/github-contribution-grid-snake.gif)
 
 
