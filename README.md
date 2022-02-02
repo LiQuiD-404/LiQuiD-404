@@ -38,7 +38,7 @@
 ◍ I’m currently learning **Web Development**<br>
 ◍ I’m looking to collaborate with any **Open - Source contribution**<br>
 ◍ I’m looking for help for learning **GUI Using Python**<br>
-◍ Other than programming and building projects I love to place **Cricket** and **Football**<br>
+◍ Other than programming and building projects I love to play **Cricket** and **Football**<br>
 ◍ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 <br>
 <img src="https://media1.giphy.com/media/Ah2joXDamL6js4sTAv/giphy.gif?cid=790b7611e1ba46ac89ae48ba3b8e6d0278aea1093779e447&rid=giphy.gif" width="50" /> <b><i>half of my productive time is wasted in watching Anime </i></b> <img src="https://media4.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif?cid=790b76116d7604c4e3a82516861c1a10ecf81bf62ae8a799&rid=giphy.gif&ct=s" width="50" /> 
