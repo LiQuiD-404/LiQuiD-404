@@ -7,11 +7,16 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shubham Singh</h1>
 <h3 align="center">Programmer | Developer | Tech Entusiast</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/shubham-singh-519769220/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/liquid_404" target="blank"><img align="center" src="https://icons-for-free.com/iconfiles/png/512/codechef-1324440139527402917.png" alt="@liquid_404" height="30" width="40" /></a>
- <a href = "mailto: shubhamsingh.exe@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<div align="center">
+
+<a  href="https://www.linkedin.com/in/shubham-singh-519769220/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:shubhamsingh.exe@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.codechef.com/users/liquid_404"><img  alt="codechef" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />  </a>
+</div>
 </p>
 </p>
+
+
 
 
 
@@ -78,15 +83,16 @@
  <p align="center">
  <img src="https://cultofthepartyparrot.com/guests/hd/vibepartycat.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats&nbsp&nbsp&nbsp     </b></i><img src="https://cultofthepartyparrot.com/guests/hd/vibepartycat.gif" width="30px" alt="GitHub-Status"/></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiQuiD-404&langs_count=10&theme=tokyonight&layout=compact" alt="shubham" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=LiQuiD-404&show_icons=true&theme=synthwave" alt="shubham-stats" width="410" /></p>
-
-
- <br><br>	
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiQuiD-404&layout=compact&bg_color=222428&title_color=56ed4e&text_color=56ed4e" alt="shubham" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=LiQuiD-404&bg_color=222428&title_color=56ed4e&text_color=56ed4e&show_icons=true&include_all_commits=true" alt="shubham-stats" width="410" /></p>
+ <br><br>
   <br><br>
-  <br>
-  <br>
+   <br><br>
+<p align="center"><img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=LiQuiD-404&theme=soft-green" alt="shubham" /></p>
+<br><br>
+   <p align="center"><img align="middle" src="https://activity-graph.herokuapp.com/graph?username=LiQuiD-404&bg_color=1c1b1b&line=56ed4e&color=56ed4e" alt="shubham" /></p>
+   
+
   <hr>
 
 **Watch my Contribution Graph get eaten by this snake 	:snake:**
