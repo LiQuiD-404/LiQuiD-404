@@ -42,7 +42,7 @@
 ◍ I’m currently a student intern at [DevTown](https://www.devtown.in/)<br>
 ◍ I’m currently learning **Web Development**<br>
 ◍ I’m looking to collaborate with any **Open - Source contribution**<br>
-◍ I’m looking for help for learning **GUI Using Python**<br>
+◍ I’m looking for help for learning **APIs**<br>
 ◍ Other than programming and building projects I love to play **Cricket** and **Football**<br>
 ◍ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 <br>
