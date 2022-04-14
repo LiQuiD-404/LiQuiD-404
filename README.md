@@ -5,7 +5,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shubham Singh</h1>
-<h3 align="center">Programmer | Developer | Tech Entusiast</h3>
+<h3 align="center">Programmer | Developer | Tech Enthusiast</h3>
 <p align="center">
 <div align="center">
 
