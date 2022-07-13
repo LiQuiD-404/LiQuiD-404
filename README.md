@@ -11,7 +11,7 @@
 
 <a  href="https://www.linkedin.com/in/shubham-singh-519769220/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:shubhamsingh.exe@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.codechef.com/users/liquid_404"><img  alt="codechef" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />  </a>
+<a href="https://www.codechef.com/users/liquid_404"><img  alt="codechef" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" /> </a>
 </div>
 </p>
 </p>
