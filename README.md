@@ -34,7 +34,7 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LiQuiD-404 &label=Profile%20views&color=blueviolet&style=flat" alt="shubham" /> </p>
-<img align="right" width=300px alt="Unicorn" src="https://media.baamboozle.com/uploads/images/43331/1614762563_77278_gif-url.gif" width="400px" height= "400px />
+<img align="right" width=300px alt="Unicorn" src="https://media.baamboozle.com/uploads/images/43331/1614762563_77278_gif-url.gif" width="900px" height= "300px />
 
 <img src="https://c.tenor.com/3HrcAdrKXigAAAAM/cute-kawaii.gif" width="40px" height= "40px">&nbsp;***Talking about Personal Stuffs...***
 
