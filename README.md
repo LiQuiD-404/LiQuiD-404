@@ -11,7 +11,7 @@
 
 <a  href="https://www.linkedin.com/in/shubham-singh-519769220/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:shubhamsingh.exe@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.codechef.com/users/liquid_404"><img  alt="codechef" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" /> </a>
+<a href="https://twitter.com/shubbh_">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 </div>
 </p>
 </p>
@@ -49,8 +49,18 @@
 <img src="https://media1.giphy.com/media/Ah2joXDamL6js4sTAv/giphy.gif?cid=790b7611e1ba46ac89ae48ba3b8e6d0278aea1093779e447&rid=giphy.gif" width="50" /> <b><i>half of my productive time is wasted in watching Anime </i></b> <img src="https://media4.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif?cid=790b76116d7604c4e3a82516861c1a10ecf81bf62ae8a799&rid=giphy.gif&ct=s" width="50" /> 
 <br><br>
 <br><br>
-<br><br>
-<br><br><br><br>
+
+
+<hr>
+<h3>
+Find me on:
+<br></h3>
+
+<a href="https://discordapp.com/users/427795160257003520">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a> &nbsp;&nbsp;
+<a href="https://api.whatsapp.com/send?phone=+917044771222&text=Hey%20Shubham!">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/_shubhistic_/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> &nbsp;&nbsp;
+
+
 <hr>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px" height= "40px">&nbsp; **Languages & Tools I Know...**
