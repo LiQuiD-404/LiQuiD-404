@@ -39,7 +39,7 @@
 <img src="https://c.tenor.com/3HrcAdrKXigAAAAM/cute-kawaii.gif" width="40px" height= "40px">&nbsp;***Talking about Personal Stuffs...***
 
 
-◍ I’m currently a student intern at [DevTown](https://www.devtown.in/)<br>
+◍ I’m currently a student intern at [GeeksForGeeks](https://www.geeksforgeeks.org/)<br>
 ◍ I’m currently learning **Web Development**<br>
 ◍ I’m looking to collaborate with any **Open - Source contribution**<br>
 ◍ I’m looking for help for learning **APIs**<br>
@@ -96,9 +96,11 @@
     <br><br>
 <p align="center"><img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=LiQuiD-404&theme=soft-green" alt="shubham" /></p>
 <br><br>
-   <p align="center"><img align="middle" src="https://activity-graph.herokuapp.com/graph?username=LiQuiD-404&bg_color=1c1b1b&line=56ed4e&color=56ed4e" alt="shubham" /></p>
-   <br><br>
+   <p align="center">
    
+   [![Shubham's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LiQuiD-404&bg_color=222428&color=56ed4e&line=3cc572&area=true&area_color=227041)](https://github.com/ashutosh00710/github-readme-activity-graph)
+   <br><br>
+   </p>
    <hr>
 
       
