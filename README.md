@@ -53,7 +53,7 @@
 
 <hr>
 <h3>
-Find me on:
+My Socials:
 <br></h3>
 
 <a href="https://discordapp.com/users/427795160257003520">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a> &nbsp;&nbsp;
@@ -62,8 +62,23 @@ Find me on:
 
 
 <hr>
+                                                 
+<h3 align=left>
+Coding Profiles:
+</h3>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px" height= "40px">&nbsp; **Languages & Tools I Know...**
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-da8200?style=for-the-badge&logo=LeetCode&logoColor=ffa116&labelColor=black)](https://leetcode.com/LiQuiD-404/)
+[![CodeChef](https://img.shields.io/badge/Codechef-372a22?&style=for-the-badge&logo=Codechef&logoColor=red&labelColor=black)](https://www.codechef.com/users/liquid_404)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-00c353?style=for-the-badge&logo=HackerRank&logoColor=00EA64&labelColor=black)](https://www.hackerrank.com/Liquid_404)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=4dcb72&labelColor=black)](https://auth.geeksforgeeks.org/user/shubhamsinghexe/)
+                                                 
+<hr>
+
+<h3>
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height= "30px">&nbsp;
+Languages & Tools I Use:
+</h3>
 <div align="center">
   
 ![snake gif](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -87,16 +102,16 @@ Find me on:
   </div>
   <hr>
   
-   **My Certifications** :arrow_down:
+<h3> My Certifications :arrow_down: </h3>
 
 - [Introduction to Digital Marketing - Google](https://drive.google.com/file/d/1Z6G7kHBmcDimKiKvVpfYDDTlJAq-a3oy/view)
 - [Introduction to AI - University of Helsinki](https://certificates.mooc.fi/validate/2v2cyd8pzkx)
 - [Spark AR Community Hackathon - Meta](https://drive.google.com/file/d/1pwYvJvu8zlq0X3ItCBHafUisnErNY3fd/view?usp=sharing) 
 
  <hr>
- 
+ <h3>
  <p align="center">
- <img src="https://cultofthepartyparrot.com/guests/hd/vibepartycat.gif" width="40px" height= "40px"alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats&nbsp&nbsp&nbsp     </b></i><img src="https://cultofthepartyparrot.com/guests/hd/vibepartycat.gif" width="40px" height= "40px" alt="GitHub-Status"/></p>
+ <img src="https://cultofthepartyparrot.com/guests/hd/vibepartycat.gif" width="40px" height= "40px"alt="GitHub-Status"/>&nbsp;GitHub Stats&nbsp&nbsp&nbsp     <img src="https://cultofthepartyparrot.com/guests/hd/vibepartycat.gif" width="40px" height= "40px" alt="GitHub-Status"/></p> </h3>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiQuiD-404&layout=compact&bg_color=222428&title_color=56ed4e&text_color=56ed4e" alt="shubham" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=LiQuiD-404&bg_color=222428&title_color=56ed4e&text_color=56ed4e&show_icons=true&include_all_commits=true" alt="shubham-stats" width="410" /></p>
