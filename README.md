@@ -22,7 +22,7 @@
 
 <p align="center">
   <em>
-    This is ME, Shubham Singh, a <b>first year</b> undergraduate from <a href="https://vit.ac.in/"> <b>Vellore Institute of Technology</b>, Vellore</a>. <br>
+    This is ME, Shubham Singh, a <b>second year</b> undergraduate from <a href="https://vit.ac.in/"> <b>Vellore Institute of Technology</b>, Vellore</a>. <br>
     A budding <b>Full-Stack Software Developer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="40px" height= "40px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" width="40px" height= "40px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Rocket.gif" width="40px" height= "40px">and 
