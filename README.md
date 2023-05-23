@@ -108,6 +108,7 @@ Languages & Tools I Use:
 <p align="center"><img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=LiQuiD-404&theme=soft-green" alt="shubham" /></p>
 <br><br>
    <p align="center">
+
    
    [![Shubham's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LiQuiD-404&bg_color=222428&color=56ed4e&line=3cc572&area=true&area_color=227041)](https://github.com/ashutosh00710/github-readme-activity-graph)
    <br><br>
@@ -120,6 +121,10 @@ Languages & Tools I Use:
    
 
   <hr>
+                    
+ ![github-wrapped](https://github.com/LiQuiD-404/LiQuiD-404/assets/94376674/605de85d-114b-40de-bfbb-566d203281e5)
+                    
+<hr>
 
 **Watch my Contribution Graph get eaten by this snake 	:snake:**
 <p align="center">
