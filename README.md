@@ -110,7 +110,7 @@ Languages & Tools I Use:
    <p align="center">
 
    
-   [![Shubham's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LiQuiD-404&bg_color=222428&color=56ed4e&line=3cc572&area=true&area_color=227041)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shubham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LiQuiD-404&bg_color=0c0c0c&color=c2f391&line=4c9e56&point=20a206&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
                     
    <br><br>
    </p>
