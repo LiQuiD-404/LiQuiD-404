@@ -111,6 +111,7 @@ Languages & Tools I Use:
 
    
    [![Shubham's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LiQuiD-404&bg_color=222428&color=56ed4e&line=3cc572&area=true&area_color=227041)](https://github.com/ashutosh00710/github-readme-activity-graph)
+                    
    <br><br>
    </p>
    <hr>
