@@ -40,7 +40,7 @@
 
 
 ◍ I’m currently a student intern at [GeeksForGeeks](https://www.geeksforgeeks.org/)<br>
-◍ I’m currently learning **Web Development**<br>
+◍ I’m currently learning **React js**<br>
 ◍ I’m looking to collaborate with any **Open - Source contribution**<br>
 ◍ I’m looking for help for learning **APIs**<br>
 ◍ Other than programming and building projects I love to play **Cricket** and **Football**<br>
